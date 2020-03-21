@@ -1,0 +1,22 @@
+.container {
+    width: 700px;
+    margin: 0 auto;
+}
+
+@media (max-width: 960px) {
+	.card-white{
+		width: 700px;
+	}
+}
+
+@media (max-width: 720px) {
+	.card-white{
+		width: 500px;
+	}
+}
+
+@media (max-width: 540px) {
+	.card-white{
+		width: 300px;
+	}
+}
